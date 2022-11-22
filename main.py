@@ -15,5 +15,3 @@ chart_data = pd.DataFrame(
     columns=["a", "b", "c"])
 
 st.bar_chart(chart_data)
-
-st.image('menu\A01\python-1.PNG')
